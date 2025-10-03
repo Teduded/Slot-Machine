@@ -47,4 +47,4 @@ while True:
         print("Ogiltigt val, försök igen.")
 
 exit()
-# testar en kommentar i Git
+
